@@ -1,0 +1,14 @@
+.formulario{
+    animation-duration: 2s;
+    animation-name: vindo;
+}
+
+@keyframes vindo {
+    from{
+        margin-top: -150%;
+    }
+    to{
+        margin-bottom: 10%;
+    }
+    
+}
